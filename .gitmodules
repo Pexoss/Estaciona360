@@ -1,7 +1,7 @@
 [submodule "APP"]
     path = APP
-    url = https://github.com/usuario/repositorio-APP.git
+    url = https://github.com/Pexoss/Estaciona360/blob/master/APP
 
 [submodule "Core"]
     path = Core
-    url = https://github.com/usuario/repositorio-Core.git
+    url = https://github.com/Pexoss/Estaciona360/blob/master/Core
