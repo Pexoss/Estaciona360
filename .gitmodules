@@ -1,10 +1,7 @@
-
 [submodule "APP"]
     path = APP
-    url = <D:\TCC\TCCItera\APP>
-
-
+    url = https://github.com/usuario/repositorio-APP.git
 
 [submodule "Core"]
-    path = APP
-    url = <D:\TCC\TCCItera\Core>
+    path = Core
+    url = https://github.com/usuario/repositorio-Core.git
