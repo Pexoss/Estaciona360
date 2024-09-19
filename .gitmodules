@@ -1,0 +1,10 @@
+
+[submodule "APP"]
+    path = APP
+    url = <D:\TCC\TCCItera\APP>
+
+
+
+[submodule "Core"]
+    path = APP
+    url = <D:\TCC\TCCItera\Core>
